@@ -133,7 +133,7 @@ async def on_back_button(client, CallbackQuery):
         )
 
 @app.on_callback_query(filters.regex('splus'))      
-async def mb_plugin_button(client, CallbackQuery):
+async def sb_plugin_button(client, CallbackQuery):
     callback_data = CallbackQuery.data.strip()
     cb = callback_data.split(None, 2)[2]
     keyboard = InlineKeyboardMarkup([[InlineKeyboardButton("ʙᴀᴄᴋ", callback_data=f"sbot_cb")]])
