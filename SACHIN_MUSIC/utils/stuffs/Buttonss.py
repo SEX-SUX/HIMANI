@@ -6,7 +6,7 @@ class BUTTONS(object):
     [
         InlineKeyboardButton("+", callback_data="splus HELP_ChatGPT"),
         InlineKeyboardButton("+", callback_data="splus HELP_Group"),
-        InlineKeyboardButton("sᴛᴄᴋʀs", callback_data="mplus HELP_Sticker")
+        InlineKeyboardButton("+", callback_data="mplus HELP_Sticker")
     ],
     [
         InlineKeyboardButton("+", callback_data="splus HELP_TagAll"),
@@ -35,6 +35,6 @@ class BUTTONS(object):
     ],          
     [
         InlineKeyboardButton("ʙᴀᴄᴋ", callback_data=f"settings_back_helper"), 
-        InlineKeyboardButton("ɴᴇxᴛ", callback_data=f"managebot123 settings_back_helper"),
+        InlineKeyboardButton("ɴᴇxᴛ", callback_data=f"managebot1234 settings_back_helper"),
     ]
     ]
