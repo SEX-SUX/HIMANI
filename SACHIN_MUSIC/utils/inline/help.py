@@ -24,7 +24,7 @@ def help_pannel(_, START: Union[bool, int] = None):
     third = [
         InlineKeyboardButton(
             text=_["BACK_PAGE"],
-            callback_data=f"mbot_cb",
+            callback_data=f"sbot_cb",
         ),
         InlineKeyboardButton(
             text=_["BACK_BUTTON"],
