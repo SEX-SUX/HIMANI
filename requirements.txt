@@ -5,7 +5,7 @@ pornhub-api==0.2.0
 aiohttp 
 asyncio 
 beautifulsoup4
-SACHINhub
+daxxhub
 deepai
 python-whois
 dnspython
