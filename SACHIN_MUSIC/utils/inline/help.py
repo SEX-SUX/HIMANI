@@ -21,6 +21,20 @@ def help_pannel(_, START: Union[bool, int] = None):
             callback_data=f"mbot_cb",
         ),
     ]
+    third = [
+        InlineKeyboardButton(
+            text=_["BACK_PAGE"],
+            callback_data=f"mbot_cb",
+        ),
+        InlineKeyboardButton(
+            text=_["BACK_BUTTON"],
+            callback_data=f"settingsback_helper",
+        ),
+        InlineKeyboardButton(
+            text=_["NEXT_PAGE"],
+            callback_data=f"sbot_cb",
+        ),
+    ]
     mark = second if START else first
     upl = InlineKeyboardMarkup(
         [
