@@ -1,23 +1,23 @@
 import asyncio, os, time, aiohttp
 import aiohttp
 from pyrogram import filters
-from SACHINhub import SACHINhub as papaSACHIN
+from daxxhub import daxxhub as papadaxx
 from SACHIN_MUSIC import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-###
-@app.on_message(filters.command("SACHINhub"))
-async def SACHINhub(_, message):
-    text = message.text[len("/SACHINhub") :]
-    papaSACHIN(f"{text}").save(f"SACHINhub_{message.from_user.id}.png")
-    await message.reply_photo(f"SACHINhub_{message.from_user.id}.png")
-    os.remove(f"SACHINhub_{message.from_user.id}.png")
-####
+
+@app.on_message(filters.command("daxxhub"))
+async def daxxhub(_, message):
+    text = message.text[len("/daxxhub") :]
+    papadaxx(f"{text}").save(f"daxxhub_{message.from_user.id}.png")
+    await message.reply_photo(f"daxxhub_{message.from_user.id}.png")
+    os.remove(f"daxxhub_{message.from_user.id}.png")
+
 
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("/git \n\n╭────────────────⦿\n│🖤 ▸  𝗥𝗘𝗔𝗟 𝗢𝗪𝗡𝗘𝗥\n│🤍 ▸ @V_VIP_OWNER\n├────────────────⦿\n│💜 ▸    𝗨𝗣𝗗𝗔𝗧𝗘'𝗦 \n│🤎️ ▸ @All_SANATANI_BOT\n├────────────────⦿\n│❤️ ▸   𝗦𝗨𝗣𝗣𝗢𝗥𝗧\n│🧡️ ▸ @IM_FROM_4ST\n╰────────────────⦿")
+        await message.reply_text("`/git LAND LE LE SACHIN KA MADRCHOD` [ @V_VIP_OWNER ]")
         return
 
     username = message.text.split(None, 1)[1]
