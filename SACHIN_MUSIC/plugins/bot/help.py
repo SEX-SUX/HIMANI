@@ -129,7 +129,7 @@ async def helper_cb(client, CallbackQuery):
 @app.on_callback_query(filters.regex('managebot123'))
 async def on_back_button(client, CallbackQuery):
     callback_data = CallbackQuery.data.strip()
-    cb = callback_data.split(None, 1)[1]
+    cb = callback_data.split(None, 2)[2]
     keyboard = help_pannel(_, True)
     if cb == "settings_back_helper":
         await CallbackQuery.edit_message_text(
