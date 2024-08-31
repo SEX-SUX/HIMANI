@@ -5,62 +5,56 @@ class Helper(object):
 ᴀsᴋ ʏᴏᴜʀ ᴅᴏᴜʙᴛs ᴀᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ
 
 ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /'''
-    HELP_ChatGPT = '''CʜᴀᴛGPT
-
-CʜᴀᴛGPT ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_ChatGPT = '''**❖ ᴄʜᴀᴛɢᴘᴛ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 /ask ➠ ǫᴜᴇʀɪᴇs ᴛʜᴇ ᴀɪ ᴍᴏᴅᴇʟ ᴛᴏ ɢᴇᴛ ᴀ ʀᴇsᴘᴏɴsᴇ ᴛᴏ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_Sticker = '''sᴛɪᴄᴋᴇʀs
-
-sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Sticker = '''**❖ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 /packkang ➠ ᴄʀᴇᴀᴛᴇs ᴀ ᴘᴀᴄᴋ ᴏғ sᴛɪᴄᴋᴇʀs ғʀᴏᴍ ᴀ ᴏᴛʜᴇʀ ᴘᴀᴄᴋ.
 /stickerid ➠ ɢᴇᴛs ᴛʜᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴏғ ᴀ sᴛɪᴄᴋᴇʀ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_TagAll = '''Tᴀɢ
-
-  Tᴀɢ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_TagAll = '''**❖ ᴛᴀɢ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 ✿ ᴄʜᴏᴏsᴇ ᴛᴀɢ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ ✿
 
-๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ 
-ᴛᴀɢ sᴛᴏᴘ ⇴ /gmstop
+๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ᴡɪsʜ ᴛᴀɢ
+⭗ /gmstop ⇴ sᴛᴏᴘ ᴛᴀɢ 
 
-๏ /gntag ➛ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /gnstop
+๏ /gntag ➛ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴛᴀɢ 
+⭗ /gnstop ⇴ sᴛᴏᴘ ᴛᴀɢ
 
-๏ /tagall ➛ ʀᴀɴᴅᴏᴍ ᴍᴇssᴀɢᴇ ᴛᴀɢ sᴛᴏᴘ ⇴ /tagoff /tagstop
+๏ /tagall ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ ᴛᴀɢ
+⭗ /tagoff /tagstop ⇴ sᴛᴏᴘ ᴛᴀɢ
 
-๏ /hitag ➛ ʀᴀɴᴅᴏᴍ ʜɪɴᴅɪ ᴍᴇssᴀɢᴇ ᴛᴀɢ sᴛᴏᴘ ⇴/histop
+๏ /hitag ➛ ʀᴀɴᴅᴏᴍ ʜɪɴᴅɪ ᴍᴇssᴀɢᴇ ᴛᴀɢ 
+⭗ /histop ⇴ sᴛᴏᴘ ᴛᴀɢ
 
-๏ /shayari ➛ ʀᴀɴᴅᴏᴍ sʜᴀʏᴀʀɪ ᴛᴀɢ sᴛᴏᴘ ⇴ /shstop
+๏ /shayari ➛ ʀᴀɴᴅᴏᴍ sʜᴀʏᴀʀɪ ᴛᴀɢ 
+⭗ /shstop ⇴ sᴛᴏᴘ ᴛᴀɢ
 
-๏ /utag ➛ ᴀɴʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /cancel 
 
-๏ /vctag ➛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴᴠɪᴛᴇ ᴛᴀɢ sᴛᴏᴘ ⇴ /vcstop
+๏ /vctag ➛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴᴠɪᴛᴇ ᴛᴀɢ 
+⭗ /vcstop ⇴ sᴛᴏᴘ ᴛᴀɢ
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_Info = '''Iɴꜰᴏ
-
-Iɴꜰᴏ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Info = '''**❖ ɪɴꜰᴏ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 /id : ɢᴇᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ ɪᴅ. ɪғ ᴜsᴇᴅ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ, ɢᴇᴛs ᴛʜᴀᴛ ᴜsᴇʀ's ɪᴅ.
 /info : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.
 /github <ᴜsᴇʀɴᴀᴍᴇ> : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ɢɪᴛʜᴜʙ ᴜsᴇʀ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Group = '''Gʀᴏᴜᴘ
-
-Gʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Group = '''**❖ ɢʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴄᴏᴍᴍᴀɴᴅs:
 
@@ -76,12 +70,10 @@ Gʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅꜱ:
 ⦿ /zombies ➠ ʀᴇᴍᴏᴠᴇs ᴀᴄᴄ ᴅᴇʟᴇᴛᴇᴅ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
 ⦿ /imposter ᴏɴ/ᴏғғ ➠ ᴛᴜʀɴs ᴏɴ ᴏʀ ᴏғғ ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ ғᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ, ᴡʜɪᴄʜ ɴᴏᴛɪғɪᴇs ᴀʙᴏᴜᴛ ᴜsᴇʀs ᴡʜᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇɪʀ ɴᴀᴍᴇ ᴏʀ ᴜsᴇʀɴᴀᴍᴇ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_Extra = '''Exᴛʀᴀ
-
-Exᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Extra = '''**❖ ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 ⦿ /math ➠ sᴏʟᴠᴇs ᴍᴀᴛʜᴇᴍᴀᴛɪᴄᴀʟ ᴘʀᴏʙʟᴇᴍs ᴀɴᴅ ᴇǫᴜᴀᴛɪᴏɴs.
 ⦿ /blackpink ➠ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ʙʟᴀᴄᴋᴘɪɴᴋ-sᴛʏʟᴇ ʟᴏɢᴏ.
@@ -95,22 +87,18 @@ Exᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ:
 ⦿ /google ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ɢᴏᴏɢʟᴇ.
 ⦿ /stack ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ-ʀᴇʟᴀᴛᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ sᴛᴀᴄᴋ ᴏᴠᴇʀғʟᴏᴡ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_Image = '''Iᴍᴀɢᴇ
-
-Iᴍᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Image = '''**❖ ɪᴍᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 ⦿ /draw ➠ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ᴅʀᴀᴡɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴘᴏʀᴏᴍᴘᴛ.
 ⦿ /image ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴀɴ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴋᴇʏᴡᴏʀᴅ.
 ⦿ /upscale ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ɪᴍᴀɢᴇ ᴛᴏ ᴜᴘsᴄᴀʟᴇ ɪᴛ ᴀɴᴅ ɪᴍᴘʀᴏᴠᴇ ɪᴛs ǫᴜᴀʟɪᴛʏ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Action = '''Aᴄᴛɪᴏɴ
-
-Aᴄᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Action = '''**❖ ᴀᴄᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 » ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Bᴀɴs & Mᴜᴛᴇ :
 
@@ -128,11 +116,9 @@ Admins only:
 __
 𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  - 𝚈𝚞𝚖𝚒 𝚋𝚊𝚗 𝚈𝚞𝚖𝚒 𝚖𝚞𝚝𝚎 𝚈𝚞𝚖𝚒 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Search = '''Sᴇᴀʀᴄʜ
-
-Sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Search = '''**❖ sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ :**
 
 • /google <query> : Search the google for the given query.
 • /anime <query>  : Search myanimelist for the given query.
@@ -142,10 +128,10 @@ Sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
 Example:
 /google pyrogram: return top 5 reuslts.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
 
-    HELP_Font = '''ғᴏɴᴛ
+    HELP_Font = '''**❖ ғᴏɴᴛ :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ғᴏɴᴛ ᴍᴏᴅᴜʟᴇ:
 
@@ -155,9 +141,9 @@ Example:
 
 ◌ /font [ᴛᴇxᴛ]
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Game = '''ɢᴀᴍᴇs
+    HELP_Game = '''**❖ ɢᴀᴍᴇs :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ɢᴀᴍᴇs ᴍᴏᴅᴜʟᴇ:
 ɢᴀᴍᴇs ᴍᴏᴅᴜʟᴇ:
@@ -178,9 +164,9 @@ Example:
 
 ◌ /football [ғᴏᴏᴛʙᴀʟʟ ɢᴀᴍᴇ]
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_TG = '''Ⓣ-ɢʀᴀᴘʜ
+    HELP_TG = '''**❖ ᴛᴇʟᴇɢʀᴀᴘʜ **
 
 Ⓣ-ɢʀᴀᴘʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
@@ -189,9 +175,9 @@ Example:
 ◌ /tgm [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ]
 ◌ /tgt [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ]
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Imposter = '''ɪᴍᴘᴏsᴛᴇʀ
+    HELP_Imposter = '''**❖ ɪᴍᴘᴏsᴛᴇʀ **
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ɪᴍᴘᴏsᴛᴇʀ ᴍᴏᴅᴜʟᴇ:
 
@@ -200,9 +186,9 @@ Example:
 ◌ /imposter on
 ◌ /imposter off
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_TD = '''Tʀᴜᴛʜ-ᗪᴀʀᴇ
+    HELP_TD = '''**❖ ᴛʀᴜᴛʜ-ᴅᴀʀᴇ :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ Tʀᴜᴛʜ-ᗪᴀʀᴇ ᴍᴏᴅᴜʟᴇ:
 
@@ -210,18 +196,18 @@ Example:
 ◌ /truth : sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴛʀᴜᴛʜ sᴛʀɪɴɢ.
 ◌ /dare : sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴅᴀʀᴇ sᴛʀɪɴɢ.
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_HT = '''ʜᴀsᴛᴀɢ
+    HELP_HT = '''**❖ ʜᴀsᴛᴀɢ :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ʜᴀsᴛᴀɢ ᴍᴏᴅᴜʟᴇ:
 
 ʜᴀsᴛᴀɢ
 ◌ /hastag : [ᴛᴇxᴛ]
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_TTS = '''ᴛᴛs
+    HELP_TTS = '''**❖ ᴛᴛs :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ᴛᴛs ᴍᴏᴅᴜʟᴇ:
 
@@ -230,9 +216,9 @@ Example:
 
 ◌ ᴜsᴀɢᴇ ➛ ᴛᴇxᴛ ᴛᴏ ᴀᴜᴅɪᴏ
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Fun = '''ғᴜɴ
+    HELP_Fun = '''**❖ ғᴜɴ :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ғᴜɴ ᴍᴏᴅᴜʟᴇ:
 ᴡɪsʜ ᴍᴏᴅᴜʟᴇ:
@@ -251,9 +237,9 @@ Example:
 ◌ /boobs [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ʙᴏᴏʙɪᴇs sɪᴢᴇ]
 ◌ /dick [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴅɪᴄᴋ sɪᴢᴇ]
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
-    HELP_Q = '''ǫᴜᴏᴛʟʏ
+    HELP_Q = '''**❖ ǫᴜᴏᴛʟʏ :**
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ ǫᴜᴏᴛʟʏ ᴍᴏᴅᴜʟᴇ:
 
@@ -261,7 +247,7 @@ Example:
 
 ◌ /q r : ᴄʀᴇᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʀᴇᴘʟʏ
 
-侖 𝖯𝖮𝖶𝖤𝖱𝖤𝖣 𝖡𝖸 : @V_VIP_OWNER 侖
+**❖ ᴍᴀᴅᴇ ʙʏ  ➛ [sᴀɴᴀᴛᴀɴɪ](https://t.me/all_sanatani_bot) **
 '''
     
     
