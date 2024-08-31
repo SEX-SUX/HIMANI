@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters, enums 
 
 class BUTTONS(object):
-    MBUTTON = [[InlineKeyboardButton("ᴄʜᴀᴛɢᴘᴛ", callback_data="mplus HELP_ChatGPT"),InlineKeyboardButton("ɢʀᴘs", callback_data="mplus HELP_Group"),InlineKeyboardButton("sᴛᴄᴋʀs", callback_data="mplus HELP_Sticker")],
+    MBUTTON = [[InlineKeyboardButton("ɢᴘᴛ", callback_data="mplus HELP_ChatGPT"),InlineKeyboardButton("ɢʀᴘs", callback_data="mplus HELP_Group"),InlineKeyboardButton("sᴛᴄᴋʀs", callback_data="mplus HELP_Sticker")],
     [InlineKeyboardButton("ᴛᴀɢᴀʟʟ", callback_data="mplus HELP_TagAll"),
     InlineKeyboardButton("ɪɴꜰᴏ", callback_data="mplus HELP_Info"),InlineKeyboardButton("ᴇxᴛʀᴀ", callback_data="mplus HELP_Extra")],
     [InlineKeyboardButton("ɪᴍᴀɢᴇ", callback_data="mplus HELP_Image"),
