@@ -60,7 +60,7 @@ def help_back_markup(_):
 def private_help_panel(_):
     buttons = [
         [
-            InlineKeyboardButton(text=_["S_B_4"], url=f"https://t.me/{app.username}?start=help",
+            InlineKeyboardButton(text=_["S_B_4"], url=f"https://t.me/{app.username}?start=help",)
         ],
     ]
     return buttons
