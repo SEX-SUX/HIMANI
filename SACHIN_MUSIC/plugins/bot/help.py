@@ -8,8 +8,8 @@ from SACHIN_MUSIC.utils.decorators.language import LanguageStart, languageCB
 from SACHIN_MUSIC.utils.inline.help import help_back_markup, private_help_panel
 from config import BANNED_USERS, START_IMG_URL, SUPPORT_CHAT
 from strings import get_string, helpers
-from SACHIN_MUSIC.utils.stuffs.buttons import BUTTONS
-from SACHIN_MUSIC.utils.stuffs.helper import Helper
+from SACHIN_MUSIC.help.buttons import BUTTONS
+from SACHIN_MUSIC.help.helper import Helper
 
 @app.on_message(filters.command(["help"]) & filters.private & ~BANNED_USERS)
 @app.on_callback_query(filters.regex("settings_back_helper") & ~BANNED_USERS)
