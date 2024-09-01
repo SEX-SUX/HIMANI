@@ -233,8 +233,9 @@ class Helper(object):
     'can_promote_members': True,
     'can_manage_chat': True,
     }
+
     
-    }promoteuser = {
+    promoteuser = {
     'can_change_info': False,
     'can_post_messages': True,
     'can_edit_messages': True,
