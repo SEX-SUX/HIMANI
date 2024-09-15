@@ -55,3 +55,6 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
+TheApi
+pip install 
+git+https://github.com/Vivekkumar-IN/TheApi@main
