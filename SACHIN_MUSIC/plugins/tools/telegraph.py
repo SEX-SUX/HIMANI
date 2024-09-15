@@ -2,7 +2,7 @@ import os
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from SACHIN_MUSIC import app
-#from TheApi import api
+from TheApi import api
 
 
 @app.on_message(filters.command(["tgm", "tgt", "telegraph", "tl"]))
