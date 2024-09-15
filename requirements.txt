@@ -66,5 +66,5 @@ SafoneAPI
 nekos.py
 telegraph
 uuid
+bing_image_downloader
 git+https://github.com/Vivekkumar-IN/TheApi@main
-#pip install git+https://github.com/Vivekkumar-IN/TheApi@main
