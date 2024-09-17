@@ -14,8 +14,8 @@ def add_user_database(user_id: int):
     if not check_user:
         return collection.insert_one({"user_id": user_id})
 
-async def chat_with_api(model, prompt):
-    url = f"https://tofu-api.onrender.com/chat/{model}/{prompt}"
+async def chat_with_api(question):
+    url = f"https://chatgpt.apiitzasuraa.workers.dev/?question={question}"
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
             if response.status == 200:
