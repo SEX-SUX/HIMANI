@@ -28,27 +28,31 @@ from strings import get_string
 
 
 NEXI_VID = [
-"https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
-"https://telegra.ph/file/5df37a776933bb427b528.mp4",
-"https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
-"https://telegra.ph/file/75764b093a76d08f51d2c.mp4",
-"https://telegra.ph/file/ea951700bb21f53df70c9.mp4",
-"https://telegra.ph/file/b74553a355a110d9a016b.mp4",
-"https://telegra.ph/file/959dc8b67413e50f1c4a5.mp4",
-"https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/ba7699c28dab379b518ca.mp4",
+    "https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
+    "https://telegra.ph/file/5df37a776933bb427b528.mp4",
+    "https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
+    "https://telegra.ph/file/75764b093a76d08f51d2c.mp4",
+    "https://telegra.ph/file/ea951700bb21f53df70c9.mp4",
+    "https://telegra.ph/file/b74553a355a110d9a016b.mp4",
+    "https://telegra.ph/file/959dc8b67413e50f1c4a5.mp4",
+    "https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+    "https://graph.org/file/83ebf52e8bbf138620de7.mp4",
+    "https://graph.org/file/ba7699c28dab379b518ca.mp4",
 ]
 
 HIMANSHI = [
-    "CAACAgUAAxkBAAEBWPdm5mPQY_ZkO0ubAVCfrLsQrQ72JQACjAkAArIJGVUWyBghZ-dV-x4E",
-    "CAACAgUAAxkBAAEBWPhm5mPYKcuczEfuCEOMirtaXp-1dwAC4QoAAq16GFWaCSi4wwAB_FgeBA",
-    "CAACAgUAAxkBAAEBWPlm5mPeoSKNaQG_6nnQu-QDS3G9MAACSggAAq3yEVUPJy8Z5F0c4B4E",
-    "CAACAgUAAxkBAAEBWPpm5mPj0JHkFNtPWwF06LYel6I6bAACNwgAAjdAGFXRuQTa8apeoB4E",
-    "CAACAgUAAxkBAAEBWPtm5mPpBAgyaU64RhnCRrMi2N3scgACEQgAAhUSGVUMJ-alW9VubB4E",
-    "CAACAgUAAxkBAAEBWPxm5mP25bpfq3-MphrBt7_QsuXLlAACqQoAAnmvGFWxfDyUI6qURR4E",
-    "CAACAgUAAxkBAAEBWP1m5mP-nQ-yfPDVY_DtmjJKnKFqTwACHgoAAsmuGVVnKBvEVZZMvB4E",
-    "CAACAgUAAxkBAAEBWP5m5mQPxhxaKOaG5xJgUy14_BSBbAACfQkAAghYGFVtSkRZ5FZQXB4E", 
+    "CAACAgUAAxkBAAEBYw5m7G9P80t1_j2B3Yd92giEZl5pUAACDQsAAu5MeVcOK7bEmdSlUB4E",
+    "CAACAgUAAxkBAAEBYwxm7G9LVcg14qUcZZA3UW_DD8b5EwACpwsAAo1FeFfhiv4M5X_-sR4E",
+    "CAACAgUAAxkBAAEBYwdm7G9B0AQOHXTL2YqQPS_1v9aoKwACGw0AAu3GeVeciSOmGXW1Mx4E",
+    "CAACAgUAAxkBAAEBYw9m7G9UNbKd5uykZTX8lZ4Cr8LAzAACrQsAAovseFe_Dx9-6uc6Ux4E",
+    "CAACAgUAAxkBAAEBYwpm7G9GSePQOKa6J19IJmN4aQdd6wAC-QoAAmpLeFeIwvGei64Sph4E",
+    "CAACAgUAAxkBAAEBYwlm7G9F_WH00zaCrHCrOE0hPNVwzgACGAwAAgLieFfTOC4m1R4KvR4E",
+    "CAACAgUAAxkBAAEBYyBm7G-lKV7aHgEF3nJFkAfn56C6cwACgAkAArWleFcq3_E-UPFIzh4E",
+    "CAACAgUAAxkBAAEBYw1m7G9NGhPaRs7LQ1qNjukWtqleMgAC9QkAAqeOeFeHI7lMCMruQR4E",
+    "CAACAgUAAxkBAAEBYwhm7G9C5a3pRXGlnxmd-bPpk6wPTgACKwoAAqDYeVd8I_IUW4LCkx4E",
+    "CAACAgUAAxkBAAEBYyFm7G-rzbXl2VpA37MJevvoJ3712QACbQoAAktbeFfdKoQ_a4J2PR4E",
+    "CAACAgUAAxkBAAEBYyJm7G-9KCjUg2MsRKZVTpR_aqn9lwACYA4AAqTycVdmzhfCS8nEPx4E",
+    "CAACAgUAAxkBAAEBYyNm7G_FwL1o8EbUs4wtYlMwIxAgCAACDQwAAncPeVe97cDgXeKF4B4E",
 ]
 
 
