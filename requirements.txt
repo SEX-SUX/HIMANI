@@ -68,3 +68,4 @@ telegraph
 uuid
 bing_image_downloader
 git+https://github.com/SANATANIxTECH/SACHINxAPI
+SACHINxAPI
