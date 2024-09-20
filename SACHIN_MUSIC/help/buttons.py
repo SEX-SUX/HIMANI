@@ -1,6 +1,9 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters, enums 
 
+import config
+from SACHIN_MUSIC import app
+
 class BUTTONS(object):
     BBUTTON = [
         [
@@ -27,7 +30,7 @@ class BUTTONS(object):
             InlineKeyboardButton("ᴛ-ᴅ", callback_data="TOOL_BACK HELP_13"),
         ],
         [   
-            InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data=f"MAIN_CP"),]
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data=f"MAIN_CP"),]
         ]
     
     MBUTTON = [
@@ -55,20 +58,41 @@ class BUTTONS(object):
             InlineKeyboardButton("ɢʀᴧᴘʜ", callback_data="MANAGEMENT_BACK HELP_26"),
         ],
         [
-            InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data=f"MAIN_CP"), 
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data=f"MAIN_CP"), 
         ]
         ]
+    PBUTTON = [
+        [
+            InlineKeyboardButton("˹ 🦋⃟‌🇸ʌᷟᴄᷣʜɪ֟፝η 🌸 ˼", user_id=config.OWNER_ID"),
+        ],
+        [
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
+            
+        ]
+        ]
+    
+    ABUTTON = [
+        [
+            InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url=config.SUPPORT_CHAT"),
+            InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url=config.SUPPORT_CHANNEL"),
+        ],
+        [
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
+            
+        ]
+        ]
+    
     SBUTTON = [
         [
-            InlineKeyboardButton("ϻυsɪᴄ", callback_data="settings_back_helper"),
-            InlineKeyboardButton("ϻᴧηᴧɢєϻєηᴛ", callback_data="MANAGEMENT_CP"),
+            InlineKeyboardButton("🎶 ϻυsɪᴄ", callback_data="settings_back_helper"),
+            InlineKeyboardButton("ϻᴧηᴧɢєϻєηᴛ ❄️", callback_data="MANAGEMENT_CP"),
         ],
         [
-            InlineKeyboardButton("ᴛσσʟs", callback_data="TOOL_CP"),
-            InlineKeyboardButton("ᴘʀσϻσ", callback_data="MAIN_BACK HELP_27"),
+            InlineKeyboardButton("🕸️ ᴛσσʟs", callback_data="TOOL_CP"),
+            InlineKeyboardButton("ᴘʀσϻσ ⛈️", callback_data="MAIN_BACK HELP_27"),
         ],
         [
-            InlineKeyboardButton("ʙᴧᴄᴋ ᴛσ ʜσϻє", callback_data="settingsback_helper"),
+            InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
             
         ]
         ]
