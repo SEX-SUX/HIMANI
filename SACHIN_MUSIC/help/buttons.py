@@ -63,7 +63,7 @@ class BUTTONS(object):
         ]
     PBUTTON = [
         [
-            InlineKeyboardButton("˹ 🦋⃟‌🇸ʌᷟᴄᷣʜɪ֟፝η 🌸 ˼", url="https://t.me/V_VIP_OWNER")
+            InlineKeyboardButton("˹ 🇸ʌᷟᴄᷣʜɪ֟፝η ˼", url="https://t.me/V_VIP_OWNER")
         ],
         [
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
@@ -84,12 +84,12 @@ class BUTTONS(object):
     
     SBUTTON = [
         [
-            InlineKeyboardButton("🎶 ϻυsɪᴄ", callback_data="settings_back_helper"),
-            InlineKeyboardButton("ϻᴧηᴧɢєϻєηᴛ ❄️", callback_data="MANAGEMENT_CP"),
+            InlineKeyboardButton("ϻυsɪᴄ", callback_data="settings_back_helper"),
+            InlineKeyboardButton("ϻᴧηᴧɢєϻєηᴛ", callback_data="MANAGEMENT_CP"),
         ],
         [
-            InlineKeyboardButton("🕸️ ᴛσσʟs", callback_data="TOOL_CP"),
-            InlineKeyboardButton("ᴘʀσϻσ ⛈️", callback_data="MAIN_BACK HELP_27"),
+            InlineKeyboardButton("ᴛσσʟs", callback_data="TOOL_CP"),
+            InlineKeyboardButton("ᴧʙσυт", callback_data="MAIN_BACK HELP_ABOUT"),
         ],
         [
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
