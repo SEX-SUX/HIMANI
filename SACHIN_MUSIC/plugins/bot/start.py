@@ -25,19 +25,22 @@ from SACHIN_MUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-
-
-NEXI_VID = [
-    "https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
-    "https://telegra.ph/file/5df37a776933bb427b528.mp4",
-    "https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
-    "https://telegra.ph/file/75764b093a76d08f51d2c.mp4",
-    "https://telegra.ph/file/ea951700bb21f53df70c9.mp4",
-    "https://telegra.ph/file/b74553a355a110d9a016b.mp4",
-    "https://telegra.ph/file/959dc8b67413e50f1c4a5.mp4",
-    "https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
-    "https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-    "https://graph.org/file/ba7699c28dab379b518ca.mp4",
+NEXIO = [
+    "https://files.catbox.moe/jrupn9.jpg",
+    "https://files.catbox.moe/5z141p.jpg",
+    "https://files.catbox.moe/fnl0h7.jpg",
+    "https://files.catbox.moe/1lz1go.jpg",
+    "https://files.catbox.moe/avackl.jpg",
+    "https://files.catbox.moe/1yrzwz.jpg",
+    "https://files.catbox.moe/6y22qw.jpg",
+    "https://files.catbox.moe/gnnsf2.jpg",
+    "https://files.catbox.moe/ss6r60.jpg",
+    "https://files.catbox.moe/yuob18.jpg",
+    "https://files.catbox.moe/i9xrrp.jpg",
+    "https://files.catbox.moe/a9tx8f.jpg"
+    "https://files.catbox.moe/wlt26x.jpg",
+    "https://files.catbox.moe/c1lylh.jpg",
+    "https://files.catbox.moe/82eymp.jpg",
 ]
 
 HIMANSHI = [
@@ -66,8 +69,8 @@ async def start_pm(client, message: Message, _):
             keyboard = help_pannel(_)
             await message.reply_sticker(
             random.choice(HIMANSHI),)
-            return await message.reply_video(
-                random.choice(NEXI_VID),
+            return await message.reply_photo(
+                random.choice(NEXIO),
                 caption=_["help_1"].format(config.SUPPORT_CHAT),
                 reply_markup=keyboard,
             )
@@ -124,8 +127,8 @@ chat_id=message.chat.id,
         UP, CPU, RAM, DISK = await bot_sys_stats()
         await message.reply_sticker(
         random.choice(HIMANSHI),)
-        await message.reply_video(
-            random.choice(NEXI_VID),
+        await message.reply_photo(
+            random.choice(NEXIO),
             caption=_["start_2"].format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM,served_users,served_chats),
             reply_markup=InlineKeyboardMarkup(out),
         )
@@ -143,8 +146,8 @@ async def start_gp(client, message: Message, _):
     uptime = int(time.time() - _boot_)
     await message.reply_sticker(
     random.choice(HIMANSHI),)
-    await message.reply_video(
-        random.choice(NEXI_VID),
+    await message.reply_photo(
+        random.choice(NEXIO),
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
     )
@@ -180,8 +183,8 @@ async def welcome(client, message: Message):
                 out = start_panel(_)
                 await message.reply_sticker(
                 random.choice(HIMANSHI),)
-                await message.reply_video(
-                    random.choice(NEXI_VID),
+                await message.reply_photo(
+                    random.choice(NEXIO),
                     caption=_["start_3"].format(
                         message.from_user.mention,
                         app.mention,
