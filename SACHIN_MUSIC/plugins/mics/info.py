@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ᴍᴀᴅᴇ ʙʏ  ➛ [🇸ᴀ ɴ ᴀ ᴛ ᴀ ɴ ɪ₰](https://t.me/all_sanatani_bot)
+❖ ᴍᴀᴅᴇ ʙʏ  ➛ [🇸ᴀ ɴ ᴀ ᴛ ᴀ ɴ ɪ₰](https://t.me/SANATANI_TECH)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """
