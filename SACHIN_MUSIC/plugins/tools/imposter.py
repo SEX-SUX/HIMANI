@@ -31,7 +31,7 @@ ROY = [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ",
             url=f"https://t.me/HIMANSHI_MUSIC_BOT?startgroup=true"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/ALL_SANATANI_BOT")
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/SANATANI_TECH")
     ],
 ]
 
